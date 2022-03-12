@@ -30,3 +30,15 @@ Monthly average national air system delay by reporting airline for the given yea
 Monthly average security delay by reporting airline for the given year.
 Monthly average late aircraft delay by reporting airline for the given year.
 NOTE: You have worked created the same dashboard components in Flight Delay Time Statistics Dashboard section. We will be reusing the same.
+
+Requirements to create the expected result
+Two dropdown menus: For choosing report type and year
+Each dropdown will be designed as follows:
+An outer division with two inner divisions (as shown in the expected layout)
+One of the inner divisions will have information about the dropdown and the other one is dropdown.
+Layout for adding graphs.
+Callback function to compute data, create graph and return to the layout.
+
+Resource Link: wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%205/5_Peer_Graded_Assignment_Questions.py 
+
+
